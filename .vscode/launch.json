@@ -1,0 +1,29 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "food_recipe",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "food_recipe (profile mode)",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "food_recipe (release mode)",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        },
+        {
+            "name": "food_recipe (Flutter TECNO CK6n)",
+            "program": "lib/main.dart",
+            "deviceId": "192.168.0.105:5555",
+            "request": "launch",
+            "type": "dart"
+        }
+    ]
+}
